@@ -1,0 +1,19 @@
+body {
+  font-family: 'Dosis', 'sans-serif';
+  font-size: 20px;
+}
+
+h1 {
+  font-family: 'Bungee Inline', "serif";
+  color: #002147;
+}
+
+h3{
+  font-family: 'Hachi Maru Pop', 'sans-serif';
+   color: #002147;
+}
+
+a:hover {
+  text-decoration: none;
+  color: cyan;
+}
